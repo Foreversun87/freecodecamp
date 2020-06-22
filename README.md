@@ -1,4 +1,4 @@
 # freecodecamp
 
 ## Autodidaktik
-<a href="https://www.freecodecamp.org/">Zur Webseite</a>
+<a href="https://www.freecodecamp.org/" target="_blank">Zur Webseite</a>
